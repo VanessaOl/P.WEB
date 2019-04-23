@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <title>Operacoes</title>
+        <script language="javascript">
+
+            function calcularTudo(){
+                this.soma();
+                this.subtracao();
+                this.produto();
+                this.divisao();
+                this.resto();
+            }
+
+        function soma() {
+            const nota1 = parseFloat(form.nota1.value);
+            const nota2 = parseFloat(form.nota2.value);
+
+            const soma = (nota1 + nota2);
+            form.soma.value = soma;
+        }
+
+        function subtracao() {
+            const nota1 =  parseFloat(form.nota1.value);
+            const nota2 =  parseFloat(form.nota2.value);
+
+            const subtracao = (nota1 - nota2);
+            form.subtracao.value = subtracao;
+        }
+            
+        function produto() {
+            const nota1 = parseFloat(form.nota1.value);
+            const nota2 = parseFloat(form.nota2.value);
+
+            const produto = (nota1 * nota2);
+            form.produto.value = produto;
+        }
+
+        function divisao() {
+            const nota1 = parseFloat(form.nota1.value);
+            const nota2 = parseFloat(form.nota2.value);
+
+            const divisao = (nota1 / nota2);
+            form.divisao.value = divisao;
+        }
+
+        function resto() {
+            const nota1 = parseFloat(form.nota1.value);
+            const nota2 = parseFloat(form.nota2.value);
+
+            const resto = (nota1 % nota2);
+            form.resto.value = resto;
+        }
+  
+        </script>
+    </head>
+    <body>
+
+        <form name ="form">
+            Nota 1 <input type ="text" name="nota1"/><br>
+            Nota 2 <input type ="text" name="nota2"/><br>
+
+            <br><input type="button" value="Calcular" onclick="javascript:calcularTudo();"/><br>
+            <br>soma <input type ="text" name="soma"/><br>
+            <br>subtracao <input type ="text" name="subtracao"/><br>
+            <br>produto <input type ="text" name="produto"/><br>
+            <br>divisao <input type ="text" name="divisao"/><br>
+            <br>resto <input type ="text" name="resto"/><br>
+        </form>
+    </body>
+</html>
