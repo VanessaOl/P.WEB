@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedra, Papel e Tesoura</title>
+</head>
+<body>
+    <script>
+        alert("Vamos jogar? Clique em Ok.");
+            var usuario = prompt("Digite \n1 - para PEDRA \n2- para PAPEL\n3 - para TESOURA");
+            var computadorn = Math.random();
+            if (computadorn < 0.34){
+                computadorn = 1;
+                var computador = "PEDRA";
+            }else if (computadorn<0.67){
+                computadorn = 2;
+                computador = "PAPEL";
+            }else{
+                computadorn = 3;
+                computador = "TESOURA";
+            }
+        alert("O computador escolheu " + computador);
+            
+            var compare = function (choice1, choice2) {
+            if (choice1 == choice2)
+                return ("O computador escolheu "+ computador + ". O resultado é um empate!");
+            else if (choice1 == 1) {
+                if (choice2 == 3)
+                    return ("Pedra vence. Parabéns você venceu!");
+                else {
+                    return ("Papel vence. Computador venceu!");
+                }
+            }
+            else if (choice1 == 2) {
+                if (choice2 == 1)
+                    return ("Papel vence. Parabéns, você venceu!");
+                else {
+                    return("Tesoura vence. O computador venceu!");
+                }
+            }
+            else if (choice1 == 3) {
+                if (choice2 == 1)
+                    return("Pedra vence. O computador venceu!");
+                else {
+                    return("Tesoura vence. Parabéns, você venceu!");
+                }
+            }
+        };
+           
+            alert(compare(usuario, computadorn));
+        </script>
+</body>
+</html>
