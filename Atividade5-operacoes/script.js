@@ -6,7 +6,7 @@ function calcularTudo(){
     this.resto();
 }
 
-function soma() {
+function soma() {   
     const nota1 = parseFloat(form.nota1.value);
     const nota2 = parseFloat(form.nota2.value);
 
