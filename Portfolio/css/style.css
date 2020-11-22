@@ -20,13 +20,14 @@ body {
 
 .item li a {
     text-decoration: none;
-    color:  #616161;
+    color: #fff;
     font-weight: 200;
     font-size: 20px;
 }
 
 .item li a:hover {
-    color:  #c78c19 ;
+    color:  #c78c19;
+    transition: all 200ms;
 }
 
 .kapeta {
@@ -84,12 +85,13 @@ body {
 }
 
 .projetos li:hover {
-    border-color:  #c78c19;
+    border: 1.5px solid #c78c19;
+    transition: all 200ms;
 }
     
 .projetos li:hover h3 {
     font-size: 23px;
-
+    transition: all 200ms;
 }
 
 .projeto-link a {
@@ -100,11 +102,13 @@ body {
     letter-spacing: 0.0075em;
     text-align: center;
     color:  #ffffff;
+    transition: all 200ms;
 } 
 
 .projeto-link a:hover {
     font-size: 2rem;
     color:  #616161;
+    transition: all 200ms;
 }
 
 .projetos h4 {
@@ -141,11 +145,11 @@ body {
 .container-sobre {
     display: flex;
     justify-content: space-between;
-	margin:  0 200px ;
+	margin:  0  200px 50px 200px;
     border: 1px solid #151515; 
 }
 
-.antes {
+.sobre {
     background-color:  #151515;
     margin: 0 1.5%;
     padding: 30px 20px;
@@ -156,38 +160,9 @@ body {
     width: 100%;
 }  
     
-.antes:hover {
-    border-color:  #c78c19;
-}
-
-.comeco:hover {
-    border-color:  #c78c19;
-}
-
-.atual:hover {
-    border-color:  #c78c19;
-}
-
-.comeco {
-    background-color:  #151515;
-    margin:  0 1.5%;
-    padding: 30px 20px;
-    box-sizing: border-box;
-    border: 1px solid  white;
-    border-radius: 10px;
-    letter-spacing: 0.0075em;
-    width: 100%;
-}
-
-.atual {
-    background-color:  #151515;
-    margin:  0 1.5%;
-    padding: 30px 20px;
-    box-sizing: border-box;
-    border: 1px solid  white;
-    border-radius: 10px;
-    letter-spacing: 0.0075em;
-    width: 100%;
+.sobre:hover {
+    border: 1.5px solid #c78c19;
+    transition: all 200ms;
 }
 
 .titulos-sobre {
@@ -197,11 +172,13 @@ body {
     line-height: 1.6;
     letter-spacing: 0.0075em;
     text-align: center;
-    /* color: rgba(255,255,255,0.3); */
     color:  #ffffff;
 }
+
 .titulos-sobre:hover {
-    color:  #616161;
+    font-size: 2rem;
+    color: #616161;
+    transition: all 200ms;
 }
 
 .paragrafos-sobre {
@@ -212,31 +189,6 @@ body {
     margin: 8px 0 0;
     color:  #ffffff; 
     text-align: left;
-}
-.titulo-contato {
-    font-size: 30px;
-    font-weight: normal;
-    line-height: 1.25rem;
-    letter-spacing: 0.0075em;
-    margin: 70px 15px 30px 15px;
-    color: #616161; 
-    text-align: left;
-}
-.link-contato {
-    text-decoration: none;
-    font-weight: normal;
-    font-size: 20px;
-    margin: 15px 15px 20px 15px;
-}
-
-.link-contato a{
-    color: #616161;
-    text-decoration: none;
-}
-
-.link-contato a:hover {
-    color:  #c78c19;
-    text-decoration: none;
 }
 
 .foto {
@@ -278,14 +230,6 @@ body {
 	display: flex;
 }
 
-
-/* Flex Item */
-/**.item-home {
-	margin: 0;
-	text-align: center;
-	font-size: 1.5em;
-}**/
-
 .container-home {
 	max-width: 400px;
 	margin: 20px auto 100px auto;
@@ -299,12 +243,15 @@ body {
     height: 30px;
     width: 30px;
     margin: 5px;
+    border-color: black;
 }
 
 .icon:hover {
-    border: 2px solid  #c78c19;
+    border: 1.5px solid  #c78c19;
     height: 35px;
     width: 35px;
+    transition: all 200ms;
+   
 }
 
 footer { 
