@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objeto Aluno</title>
+</head>
+
+<body>
+    <script>
+
+        //Forma1
+        var aluno1 = {
+            nome: 'Vanessa Oliveira',
+            ra: '0030482021018'
+        };
+
+        alert(`objeto aluno1 = Nome: ${aluno1.nome}, RA: ${aluno1.ra}`);
+
+        //Forma2
+        var aluno2 = new Object();
+        aluno2.nome = "Vanessa Oliveira";
+        aluno2.ra = '0030482021018';
+
+        alert(`objeto aluno2 = Nome: ${aluno2.nome}, RA: ${aluno2.ra}`);
+
+        //Forma3
+        var aluno3 = {};
+        aluno3.nome = "Vanessa Oliveira";
+        aluno3.ra = '0030482021018';
+
+        alert(`objeto aluno3 = Nome: ${aluno3.nome}, RA: ${aluno3.ra}`);
+
+    </script>
+    
+</body>
+
+</html>
