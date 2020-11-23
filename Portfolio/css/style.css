@@ -23,6 +23,7 @@ body {
     color: #fff;
     font-weight: 200;
     font-size: 20px;
+    cursor: none;
 }
 
 .item li a:hover {
@@ -85,7 +86,7 @@ body {
 }
 
 .projetos li:hover {
-    border: 1.5px solid #c78c19;
+    border: 2px solid #c78c19;
     transition: all 200ms;
 }
     
@@ -103,11 +104,12 @@ body {
     text-align: center;
     color:  #ffffff;
     transition: all 200ms;
+    cursor: none;
 } 
 
 .projeto-link a:hover {
     font-size: 2rem;
-    color:  #616161;
+    color:  #bcbcbc;
     transition: all 200ms;
 }
 
@@ -161,7 +163,7 @@ body {
 }  
     
 .sobre:hover {
-    border: 1.5px solid #c78c19;
+    border: 2px solid #c78c19;
     transition: all 200ms;
 }
 
@@ -177,7 +179,7 @@ body {
 
 .titulos-sobre:hover {
     font-size: 2rem;
-    color: #616161;
+    color: #bcbcbc;
     transition: all 200ms;
 }
 
@@ -247,7 +249,7 @@ body {
 }
 
 .icon:hover {
-    border: 1.5px solid  #c78c19;
+    border: 2px solid  #c78c19;
     height: 35px;
     width: 35px;
     transition: all 200ms;
@@ -261,7 +263,7 @@ footer {
 }
 
 .copyright {
-    color: #616161;
+    color: #bcbcbc;
     font-size: 18px;
     margin: 20px 0 0 15px;
     font-weight: normal;
