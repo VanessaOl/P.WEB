@@ -1,0 +1,33 @@
+body {
+    font-family: "Open Sans Condensed" , Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 50px;
+}
+
+.logo {
+    margin: 0;
+    padding: 10px;
+    background-color:rgb(153, 0, 0);
+}
+
+.nome {
+    background-color: #666666;
+    color: #ffff;
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    padding: 5px;
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 30px;
+    margin: 20px 0 20px 0;
+}
+#cursos {
+     background-color: rgb(240,240, 240); 
+}
