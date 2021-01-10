@@ -1,11 +1,11 @@
+ <h1 ALIGN="center">PWEB</h1>
 
 <div align="center">
     <img src="logo-fatec-readme.jpg">
 </div>
 
 ---
-
-# Índice
+# Índice das atividades
 
 - [Atividade 2](https://github.com/VanessaOl/PWEB/blob/master/Atividade2.docx)
 - [Atividade 3](https://github.com/VanessaOl/PWEB/tree/master/Atividade3)
@@ -25,19 +25,27 @@
 
 # 💻 Sobre
 
-Projetos desenvolvidos na disciplina de **Programação para WEB** do curso de 
+Atividades desenvolvidas na disciplina de **Programação para WEB** do curso de 
 [Análise e Desenvolvimento de Sistemas](http://www.fatecsorocaba.edu.br/curso_ads.asp) da
 [Faculdade de Tecnologia de Sorocaba](http://www.fatecsorocaba.edu.br/)
 
 ---
 
-## 📂 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
 ---
+
+## Como baixar as atividades
+
+```bash
+# clonar o repositório
+$ git clone git@github.com:VanessaOl/PWEB.git
+
+```
 
  Desenvolvido por 🖤 Vanessa Oliveira
 
