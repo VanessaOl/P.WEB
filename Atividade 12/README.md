@@ -1,11 +1,11 @@
-<h1 align="center">Atividade12</h2>
+<h1 align="center">Atividade 12</h2>
 
 ## 🔧 Sobre
 
-Formulário de uma página.
+ Atividade para desenvolver um formulário usando o form.
 
 ---
 
 ##  ✔ Status da Atividade
 
-Concluída
+Concluída.
