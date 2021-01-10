@@ -7,21 +7,21 @@
 
 # Índice
 
-- [Atividade 2](#-Atividade2.docx)
-- [Atividade 3](#-Atividade3)
+- [Atividade 2](https://github.com/VanessaOl/PWEB/blob/master/Atividade2.docx)
+- [Atividade 3](https://github.com/VanessaOl/PWEB/tree/master/Atividade3)
 - [Atividade 4](https://github.com/VanessaOl/PWEB/tree/master/ATV4)
-- [Atividade 5-media](#-ATV5-media)
-- [Atividade 5-operacoes](#-Atividade5-operacoes)
-- [Atividade 6](#-Atividade6)
-- [Atividade 7](#-Atividade7)
-- [Atividade 8](#-Atividade8)
-- [Atividade 9-contas](#-Atividade9-contas)
-- [Atividade 9-retangulo](#-Atividade9-retangulo)
-- [Atividade 10](#-Atividade10)
-- [Atividade 11](#-Atividade11)
-- [Atividade 12](#-Atividade12)
-- [Atividade 13](#-Atividade13)
-- [Portfólio](#-Portfolio)
+- [Atividade 5-media](https://github.com/VanessaOl/PWEB/tree/master/ATV5-media)
+- [Atividade 5-operacoes](https://github.com/VanessaOl/PWEB/tree/master/Atividade5-operacoes)
+- [Atividade 6](https://github.com/VanessaOl/PWEB/tree/master/Atividade6)
+- [Atividade 7](https://github.com/VanessaOl/PWEB/tree/master/Atividade7)
+- [Atividade 8](https://github.com/VanessaOl/PWEB/tree/master/Atividade8)
+- [Atividade 9-contas](https://github.com/VanessaOl/PWEB/tree/master/Atividade9-contas)
+- [Atividade 9-retangulo](https://github.com/VanessaOl/PWEB/tree/master/Atividade9-retangulo)
+- [Atividade 10](https://github.com/VanessaOl/PWEB/tree/master/Atividade10)
+- [Atividade 11](https://github.com/VanessaOl/PWEB/tree/master/Atividade11)
+- [Atividade 12](https://github.com/VanessaOl/PWEB/tree/master/Atividade%2012)
+- [Atividade 13](https://github.com/VanessaOl/PWEB/tree/master/Atividade13)
+- [Portfólio](https://github.com/VanessaOl/PWEB/tree/master/Portfolio)
 
 # 💻 Sobre
 
