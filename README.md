@@ -27,7 +27,8 @@
 
 Projetos desenvolvidos na disciplina de **Programação para WEB** do curso de 
 <a href="http://www.fatecsorocaba.edu.br/curso_ads.asp" target="_blank">Análise e Desenvolvimento de Sistemas</a> da 
-<a href="http://www.fatecsorocaba.edu.br/" target="_blank">Faculdade de Tecnologia de Sorocaba</a> 
+<a href="http://www.fatecsorocaba.edu.br/" target="_blank">Faculdade de Tecnologia de Sorocaba</a>
+[Faculdade de Tecnologia de Sorocaba](http://www.fatecsorocaba.edu.br/{target="_blank"}) 
 
 ---
 
