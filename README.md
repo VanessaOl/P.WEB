@@ -1,5 +1,7 @@
 
-![](logo-fatec-readme.jpg)
+<div align="center">
+    <img src="logo-fatec-readme.jpg">
+</div>
 
 ---
 
@@ -7,7 +9,7 @@
 
 - [Atividade 2](#-Atividade2.docx)
 - [Atividade 3](#-Atividade3)
-- [Atividade 4](#-ATV4)
+- [Atividade 4](https://github.com/VanessaOl/PWEB/tree/master/ATV4)
 - [Atividade 5-media](#-ATV5-media)
 - [Atividade 5-operacoes](#-Atividade5-operacoes)
 - [Atividade 6](#-Atividade6)
@@ -23,7 +25,7 @@
 
 # 💻 Sobre
 
-Projetos desenvolvidos na disciplina de **Programação para WEB** do curso de **Análise e Desenvolvimento de Sistemas** da  **Faculdade de Tecnologia de Sorocaba**
+Projetos desenvolvidos na disciplina de **Programação para WEB** do curso de [Análise e Desenvolvimento de Sistemas](http://www.fatecsorocaba.edu.br/curso_ads.asp) da  [Faculdade de Tecnologia de Sorocaba](http://www.fatecsorocaba.edu.br/)
 
 ---
 
