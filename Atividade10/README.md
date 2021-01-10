@@ -2,7 +2,7 @@
 
 ## 🔧 Sobre
 
-Pagina que mostra a janela aberta, fechada ou quebrada dependendo do Objeto Event.
+Página que mostra a janela aberta, fechada ou quebrada dependendo do Objeto Event.
 
 ---
 
