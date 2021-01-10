@@ -1,4 +1,4 @@
-<h1 align="center">Atividade5-operacoes</h2>
+<h1 align="center">Operações</h2>
 
 ## 🔧 Sobre
 
@@ -8,4 +8,4 @@ Recebe dois números, calcula e mostra a soma dos dois, a subtração do primeir
 
 ##  ✔ Status da Atividade
 
-Concluída
+Concluída.

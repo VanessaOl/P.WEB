@@ -1,11 +1,11 @@
-<h1 align="center">Atividade8</h2>
+<h1 align="center">Atividade 8</h2>
 
 ## 🔧 Sobre
 
-Três formas diferentes de criar o Objeto Aluno.
+Três formas diferentes de criar um Objeto em JavaScript.
 
 ---
 
 ##  ✔ Status da Atividade
 
-Concluída
+Concluída.

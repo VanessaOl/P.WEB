@@ -1,11 +1,11 @@
-<h1 align="center">Atividade6</h2>
+<h1 align="center">Atividade 6</h2>
 
 ## 🔧 Sobre
 
-Jogo pedra, papel, tesoura
+Jogo pedra, papel, tesoura.
 
 ---
 
 ##  ✔ Status da Atividade
 
-Concluída
+Concluída.

@@ -1,11 +1,11 @@
-<h1 align="center">Atividade5-media</h2>
+<h1 align="center">Média</h2>
 
 ## 🔧 Sobre
 
-Calcula e mostra a média aritmética de três notas de um aluno.
+Recebe o nome e três notas de um aluno, e calcula e exibe a média aritmética.
 
 ---
 
 ##  ✔ Status da Atividade
 
-Concluída
+Concluída.

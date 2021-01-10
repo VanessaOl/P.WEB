@@ -1,11 +1,11 @@
-<h1 align="center">Atividade11</h2>
+<h1 align="center">Atividade 11</h2>
 
 ## 🔧 Sobre
 
-Checkbox que transforma  as letras em maiúsculas ou minúsculas.
+Programa que recebe letras e possui um checkbox para transformá-las em maiúsculas e outro para transformá-las em minúsculas.
 
 ---
 
 ##  ✔ Status da Atividade
 
-Concluída
+Concluída.

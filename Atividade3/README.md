@@ -1,13 +1,13 @@
-<h1 align="center">Atividade3</h2>
+<h1 align="center">Atividade 3</h2>
 
 ## 🔧 Sobre
 
-Pagina com as informações da Atividade 2.
+Atividade com  mais informações sobre editores front-end(continuação da Atividade 2).
 
 ---
 
 ##  ✔ Status da Atividade
 
-Concluída
+Concluída.
 
 
