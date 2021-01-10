@@ -1,10 +1,12 @@
  <h1 ALIGN="center">PWEB</h1>
 
+
 <div align="center">
     <img src="logo-fatec-readme.jpg">
 </div>
 
 ---
+
 # Índice das atividades
 
 - [Atividade 2](https://github.com/VanessaOl/PWEB/blob/master/Atividade2.docx)
@@ -23,6 +25,8 @@
 - [Atividade 13](https://github.com/VanessaOl/PWEB/tree/master/Atividade13)
 - [Portfólio](https://github.com/VanessaOl/PWEB/tree/master/Portfolio)
 
+---
+
 # 💻 Sobre
 
 Atividades desenvolvidas na disciplina de **Programação para WEB** do curso de 
@@ -39,14 +43,17 @@ Atividades desenvolvidas na disciplina de **Programação para WEB** do curso de
 
 ---
 
-## Como baixar as atividades
+## 📁 Como baixar as atividades
 
 ```bash
 # clonar o repositório
 $ git clone git@github.com:VanessaOl/PWEB.git
 
 ```
+---
 
  Desenvolvido por 🖤 Vanessa Oliveira
 
-  🖤 **Enjoy!**
+---
+
+<h3 align="center"> 🎁 Enjoy! </h3>
