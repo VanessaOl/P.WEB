@@ -1,240 +1,273 @@
 body {
-    background-color: black;
-    font-family: "Roboto", Arial, Helvetica, sans-serif;
-}
-
-.container-navegacao {
-    display: flex;
-    justify-content: space-between;
-    margin: 0 0 60px 0;
-    padding: 0;
-    height: 100%; 
-    background-color: black;   
-}
-
-.item-menu-home {
-
-   text-align: center;
-   display: flex;
-   align-items: center;
-   margin: 60px 0 0 120px;  
-   font-size: 1.2em;
-   height: 100%;
-   text-transform: uppercase; 
-}
-
-.item-menu {
-    display: flex;
-    flex-wrap: wrap;  
-    justify-content: space-between;
-    align-items: center;
-    margin: 60px 120px 0 40px ;  
-    padding: 0px; 
-    height: 100%;
-    text-align: center;
-   
-}
-
-.itens-menu {
-    margin: 0 0 0 40px;
-    font-size: 1.1em;
-    
-}
-
-.links{
-    text-decoration:none; 
-    color: #ffffff;
-    align-items: center;
-}
-
-.links:hover {
-    text-decoration: underline;
-    text-underline-position: under;
-    color: #ffffff;
-    transition: all 200ms ease-in-out;
-}
-
-.topo {
-    margin: 0 20px  60px 20px;
-    color: #ffffff;
-    text-align: center;
-    padding: 20px;
-    font-size: 1.3em;
-}
-
-
-
-.nome-titulo {
-    color: #ffffff;
-    text-align: center;
-    margin: 150px 0 49px 0;
-    font-size: 10em;
-}
-
-.subtitulo-home {
-    font-size: 3em;
-    color: #ffffff;
-    margin: 20px;
-    text-align: center;
-    width: 100%;
-}
-
-.contato {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    font-size: 1.3em;
-    margin: 0 0 80px 0; 
-}
-
-.itens-contato {
-    padding: 40px;
-}
-
-.titulos {
-    color: #ffffff;
-    text-align: center;
-    margin: 0 20px 40px 20px; 
-}
-
-.titulo-principal{
-    text-transform: uppercase;
-    font-size: 3.5em;
-    margin: 0 0 60px 0;
-    padding: 20px;
-}
-
-.subtitulo-principal {
-    margin: 0; 
-    padding: 20px;
-    font-size: 1.5em;
-}
-
-.container-conteudo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 20px 60px 20px ;
+    font-family:  "Roboto", Helvetica, sans-serif; 
+    background-color: #151515;
+    color: #fff;
+    font-weight: 400;
 }
 
 .item {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 0;
-    width: 80%;
-}
-
-.itens {
-    border: 1px solid #ffffff;
-    width: 15%;
-    margin: 0 40px 40px;
-    padding: 40px;
-    color: #ffffff;
-    line-height: 1.7em;
-}
-
-.titulo-card {
-    font-family: 'Cinzel', serif; 
-    font-size: 1.9em;
-    padding: 0 0 10px 0;
-    color: #ffffff;
-}
-
-.subtitulo {
+    background:#151515;
+	text-align: center;
     font-size: 1.5em;
-    padding: 0 0 15px 0;
-}
-
-.conteudo {
-    font-size: 1.3em;
-    padding: 0 0 30px 0; 
-}
-
-.container-linha {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 0 20px 60px 20px;
-}
-
-.item-linha {
-    border: 2px solid #ffffff; 
-    display: flex;
-    margin: 0 ;
-    width: 60%;
-    color: #ffffff;
-}
-
-.itens-linha { 
-    margin: 40px 0 40px 0 ;
-    line-height: 1.7em;
-    font-size: 1.3em;
-   
-}
-
-
-.item-linha:nth-child(odd) {
-    border-top: black;
-    border-left: black;
-    align-items: center;
-    justify-content: center; 
-}
-
-.item-linha:nth-child(even) {
-    border-right: black;
-    border-top: black;
-    align-items: center; 
-    justify-content: center;
-}
-
-.item-linha:last-child {
-    border-bottom: black;
-}
-
-.ano {
-    position: relative;
-    width: 75px;
-    height: 75px;
-    background-color: #ffffff;
-    border: 1px solid #ffffff;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.ano-1 {
-    left: 50%;
-}
-
-.ano-2 {
-    right: 50%; 
-}
-
-.ano-linha {
-    color: black;
+    margin: 0;
+    padding: 25px 25px 25px 0px;
     font-weight: bold; 
 }
 
-.copyright {
-    color: #ffffff;
-    background-color: black;
-    margin: 0 20px 0 120px;
-    padding: 20px 20px 20px 0;
+.item li {
+    margin: 0 0 0 15px;
 }
 
+.item li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 200;
+    font-size: 20px;
+    cursor: none;
+}
 
+.item li a:hover {
+    color:  #c78c19;
+    transition: all 200ms;
+}
 
+.kapeta {
+    display: flex;
+    justify-content: flex-end;
+}
 
+.container {
+    display: flex;
+    justify-content: space-between;
+	margin: 0 auto;
+    border: 1px solid #151515;
+}
 
+.topo {
+    font-size: 18px;
+    font-weight: 200;
+    text-align: center;
+    margin: 50px;
+}
 
+.titulo-principal {
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin: 80px;
+    letter-spacing: 0.0075em;
+    text-transform: uppercase;
+}
 
+.subtitulo-principal {
+    font-size: 22px;
+    font-weight: normal;
+    letter-spacing: 0.0075em;
+    text-align: center;
+}
 
+.projetos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
 
+.projetos  li {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    background-color:  #151515;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 1px solid  white;
+    border-radius: 10px;
+    letter-spacing: 0.0075em;
+}
+
+.projetos li:hover {
+    border: 2px solid #c78c19;
+    transition: all 200ms;
+}
+    
+.projetos li:hover h3 {
+    font-size: 23px;
+    transition: all 200ms;
+}
+
+.projeto-link a {
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-weight:normal;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    text-align: center;
+    color:  #ffffff;
+    transition: all 200ms;
+    cursor: none;
+} 
+
+.projeto-link a:hover {
+    font-size: 2rem;
+    color:  #bcbcbc;
+    transition: all 200ms;
+}
+
+.projetos h4 {
+    color:  #ffffff; 
+    font-size: 1.0em;
+    font-weight: normal;
+    line-height: 1.25rem;
+    letter-spacing: 0.0075em;
+    padding: 10px 0 10px 0;
+}
+
+.projetos p {
+    font-size: 1.0em;
+    font-weight: normal;
+    line-height: 1.25rem;
+    letter-spacing: 0.0075em;
+    margin: 5px 0 0;
+    color:  #ffffff; 
+    text-align: left;
+}
+
+.projeto-habilidades {
+    font-size: 1.0em;
+    line-height: 1.25rem;
+    letter-spacing: 0.0075em;
+    text-align: left;
+    padding:  0 0 10px 0;
+}
+
+.projeto-ano {
+    padding: 20px 0 0 0 ;
+}
+
+.container-sobre {
+    display: flex;
+    justify-content: space-between;
+	margin:  0  200px 50px 200px;
+    border: 1px solid #151515; 
+}
+
+.sobre {
+    background-color:  #151515;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 1px solid  white;
+    border-radius: 10px;
+    letter-spacing: 0.0075em;
+    width: 100%;
+}  
+    
+.sobre:hover {
+    border: 2px solid #c78c19;
+    transition: all 200ms;
+}
+
+.titulos-sobre {
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-weight:normal;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    text-align: center;
+    color:  #ffffff;
+}
+
+.titulos-sobre:hover {
+    font-size: 2rem;
+    color: #bcbcbc;
+    transition: all 200ms;
+}
+
+.paragrafos-sobre {
+    font-size: 1.0em;
+    font-weight: normal;
+    line-height: 1.25rem;
+    letter-spacing: 0.0075em;
+    margin: 8px 0 0;
+    color:  #ffffff; 
+    text-align: left;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+}
+
+.item-foto {
+    border-radius: 50%;
+    overflow: hidden;
+    height: 120px;
+    width: 120px;
+    margin: 60px 0 0 0;
+}
+
+.foto-ruby {
+    height: 170px;
+}
+
+.titulo-home {
+    font-size: 70px;
+    font-family: "Nunito", Helvetica, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin: 20px 0 0 0;
+    letter-spacing: 0.0075em;
+}
+
+.subtitulo-home{
+    font-size: 27px;
+    font-weight: 400;
+    text-align: center;
+    margin: 30px 0 10px;
+    letter-spacing: 0.0075em;
+}
+
+/* Flex */
+.flex-home {
+	display: flex;
+}
+
+.container-home {
+	max-width: 400px;
+	margin: 20px auto 100px auto;
+    border: 1px solid #151515;
+    justify-content: center;
+} 
+
+.icon {
+    border-radius: 50%;
+    overflow: hidden;
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+    border-color: black;
+}
+
+.icon:hover {
+    border: 2px solid  #c78c19;
+    height: 35px;
+    width: 35px;
+    transition: all 200ms;
+   
+}
+
+footer { 
+    background-color:  #151515;
+    padding: 30px 0 30px 0 ;
+    letter-spacing: 0.0075em;
+}
+
+.copyright {
+    color: #bcbcbc;
+    font-size: 18px;
+    margin: 20px 0 0 15px;
+    font-weight: normal;
+    text-align: left;
+}
 
 
